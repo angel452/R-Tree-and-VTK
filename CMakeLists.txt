@@ -1,7 +1,7 @@
 project(cmake_vtk)
 
 cmake_minimum_required(VERSION 3.15)
-SET(VTK_DIR /home/angel/Documentos/Instaladores/VTK/build)
+#SET(VTK_DIR /home/angel/Documentos/Instaladores/VTK/build)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
